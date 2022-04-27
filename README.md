@@ -4,13 +4,11 @@
 <img align="right" alt="coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 
-<p align="left"> <a href="https://twitter.com/albin_baby5" target="blank"><img src="https://img.shields.io/twitter/follow/albin_baby5?logo=twitter&style=for-the-badge" alt="albin_baby5" /></a> </p>
-
 - 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **albinluckose021@gmail.com**
 
-- ⚡ Fun fact **I love gaming**
+- ⚡ Fun fact **I ❤ gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
