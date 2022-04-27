@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albin Baby</h1>
 <h3 align="center">A passionate full stack web developer || MERN stack</h3>
 
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img align="right" alt="coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 
 <p align="left"> <a href="https://twitter.com/albin_baby5" target="blank"><img src="https://img.shields.io/twitter/follow/albin_baby5?logo=twitter&style=for-the-badge" alt="albin_baby5" /></a> </p>
