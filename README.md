@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albin Baby</h1>
 <h3 align="center">A passionate full stack web developer || MERN stack</h3>
 
-<img align="right" alt="coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img align="centre" alt="coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 
 - 🌱 I’m currently learning **REACT**
