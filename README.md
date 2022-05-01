@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Albin Baby</h1>
-<h3 align="center">A passionate full stack web developer || MERN stack</h3>
+<h3 align="center">Just cracking the code to become a full stack web developer || MERN stack</h3>
 
 <p align="center"><img alt="coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/><p/>
 
