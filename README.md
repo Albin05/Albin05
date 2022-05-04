@@ -3,7 +3,7 @@
 
 <p align="center"><img alt="coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/><p/>
 
-<h3 align="center"></h3>
+<h3 align="center">I’m a full-stack developer specializing in MERN stack, building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building responsive full-stack web applications.</h3>
 
 
 - 🌱 I’m currently learning **REACT**
