@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Albin Baby</h1>
-<h3 align="center">Just cracking the code to become a full stack web developer || MERN stack</h3>
+<h3 align="center">Just cracking the code to become a Full Stack Web Developer || MERN Stack</h3>
 
 <p align="center"><img alt="coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/><p/>
+
+<h3 align="center"></h3>
 
 
 - 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **albinluckose021@gmail.com**
+
+- 📞 Feel free to call me on +91 9048857704
 
 - ⚡ Fun fact **I ❤ Photography & Gaming**
 
